@@ -106,6 +106,8 @@
                 <?php
                 include "04showdatatable.php";
                 include "05update.php";
+                include "06delete.php";
+                
 
 
             
